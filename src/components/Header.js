@@ -7,7 +7,7 @@ export default function Header() {
             <img className="header-image" src={displayPhoto}/>
             <div className="container">
                 <div className="header-profile-info">
-                    <h1 className="header-name">Laura Smith</h1>
+                    <h1 className="header-name">Jeffrey Lustica</h1>
                     <h5 className="header-specialty">Frontend Developer</h5>
                     <p className="header-portfolio-website">laurasmith.website</p>
 
