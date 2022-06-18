@@ -11,7 +11,7 @@ export default function About() {
                 
                 <div className="about-section">
                     <h4 className="about-title">Interests</h4>
-                    <p className="about-desc">Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+                    <p className="about-desc">Sports enthusiast. Love to play basketball, but also good at volleyball, badminton, chess, etc. I would  also call myself an Artist. I do love sketching, painting, and design. I also love to travel.</p>
                 </div>
             </div>
         </div>
