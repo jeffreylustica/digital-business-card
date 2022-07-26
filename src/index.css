@@ -118,7 +118,7 @@ h1, h4, h5 {
     background-color: var(--bc-main);
     width: 500px;
     max-width: 100%;
-    margin: 0 auto;
+    margin: 2em auto;
 }
 
 .container {
@@ -129,11 +129,14 @@ h1, h4, h5 {
 /* Header */
 .header {
     text-align: center;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
 }
 
 .header-image {
     object-fit: cover;
-
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
 }
 
 .header-contact {
