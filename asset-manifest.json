@@ -1,14 +1,14 @@
 {
-  "files": {
-    "main.css": "/jeffrey-portfolio/static/css/main.041cf3ac.css",
-    "main.js": "/jeffrey-portfolio/static/js/main.9f77d5a4.js",
-    "static/media/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg": "/jeffrey-portfolio/static/media/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.2664418daddb1a370d91.jpg",
-    "index.html": "/jeffrey-portfolio/index.html",
-    "main.041cf3ac.css.map": "/jeffrey-portfolio/static/css/main.041cf3ac.css.map",
-    "main.9f77d5a4.js.map": "/jeffrey-portfolio/static/js/main.9f77d5a4.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.041cf3ac.css",
-    "static/js/main.9f77d5a4.js"
-  ]
+  "main.css": "/digital-business-card/static/css/main.e1dd23ac.chunk.css",
+  "main.js": "/digital-business-card/static/js/main.9971c591.chunk.js",
+  "main.js.map": "/digital-business-card/static/js/main.9971c591.chunk.js.map",
+  "static/js/1.ea1774b4.chunk.js": "/digital-business-card/static/js/1.ea1774b4.chunk.js",
+  "static/js/1.ea1774b4.chunk.js.map": "/digital-business-card/static/js/1.ea1774b4.chunk.js.map",
+  "runtime~main.js": "/digital-business-card/static/js/runtime~main.2ac6fa47.js",
+  "runtime~main.js.map": "/digital-business-card/static/js/runtime~main.2ac6fa47.js.map",
+  "static/media/2v2Pic.png": "/digital-business-card/static/media/2v2Pic.2cb103b4.png",
+  "static/css/main.e1dd23ac.chunk.css.map": "/digital-business-card/static/css/main.e1dd23ac.chunk.css.map",
+  "index.html": "/digital-business-card/index.html",
+  "precache-manifest.540c7917a8683a7189d30c265e421e2f.js": "/digital-business-card/precache-manifest.540c7917a8683a7189d30c265e421e2f.js",
+  "service-worker.js": "/digital-business-card/service-worker.js"
 }
