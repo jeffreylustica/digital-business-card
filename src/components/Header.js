@@ -9,7 +9,7 @@ export default function Header() {
                 <div className="header-profile-info">
                     <h1 className="header-name">Jeffrey Lustica</h1>
                     <h5 className="header-specialty">Front-end Developer</h5>
-                    <p className="header-portfolio-website">jefflustica.website</p>
+                    <p className="header-portfolio-website">jeffnew1.github.io/jeffdev-portfolio</p>
 
                     <div className="header-contact">
                         <a href="mailto:jefflustica2@gmail.com" target="_blank" className="link link-email" rel="noopener noreferrer"><i className="fa-solid fa-envelope"></i>Email</a>
