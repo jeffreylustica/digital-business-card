@@ -8,7 +8,7 @@ export default function Header() {
             <div className="container">
                 <div className="header-profile-info">
                     <h1 className="header-name">Jeffrey Lustica</h1>
-                    <h5 className="header-specialty">Front-end Developer</h5>
+                    <h5 className="header-specialty">Front-end Web Developer</h5>
                     <p className="header-portfolio-website">jeffnew1.github.io/jeffdev-portfolio</p>
 
                     <div className="header-contact">
